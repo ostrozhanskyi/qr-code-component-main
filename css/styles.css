@@ -73,7 +73,7 @@ main{
     text-align: center;
 }
 
-.card .info h5 {
+.card .info h1 {
     font-size: 1.2rem; /* 18px */
     font-weight: 900;
     color: var(--slate900);
